@@ -2,7 +2,7 @@
 namespace Deployer;
 
 require 'recipe/yii2-app-advanced.php';
-//This is test comitt
+//This 
 // Project name
 set('application', 'basic');
 
